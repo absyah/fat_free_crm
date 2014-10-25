@@ -1,4 +1,4 @@
-# French I18n file for Fat Free CRM
+# French I18n file for MadaCRM
 # Translation by Cédric Brancourt aka Electron-libre
 # cedric.brancourt@gmail.com
 # Updated by David Keita aka ManInGA
@@ -163,7 +163,7 @@ fr:
   msg_cant_do: Impossible de %{action} le %{asset} puisqu'il n'est plus disponible.
   msg_email_not_found: Aucun utilisateur ne correspond a cette adresse
   msg_enter_new_password: Saisissez votre nouveau mot de passe.
-  msg_goodbye: Vous avez été déconnecté, merci d'utiliser Fat Free CRM!
+  msg_goodbye: Vous avez été déconnecté, merci d'utiliser MadaCRM!
   msg_invalid_password: ^Saisissez votre mot de passe actuel
   msg_invalig_login: Utilisateur ou mot de passe non valide.
   msg_last_login: Votre dernière connection était le  %{value}.
@@ -175,8 +175,8 @@ fr:
   msg_pwd_instructions_sent: Les instruction de modification de mot de passe vous
     on été envoyées. Vérifiez vos e-mails
   msg_require_admin: Vous devez être administrateur pour accéder a cette page
-  msg_successful_signup: Enregistrement réussi. Bienvenu dans Fat Free CRM
-  msg_welcome: Bienvenue dans Fat Free CRM
+  msg_successful_signup: Enregistrement réussi. Bienvenu dans MadaCRM
+  msg_welcome: Bienvenue dans MadaCRM
   option_amount*probability: Montant pondéré
   activity_options: Voir les %{action_type} %{models} effectuées par %{user} dans
     les derniers %{period}.
@@ -528,12 +528,12 @@ fr:
   about: A propos
   about_dev_group: Groupe de discussion pour les développeurs
   about_features: Fonctionnalités et bugs
-  about_ffc: A propos de Fat Free CRM
-  about_ffc_resources: Ressources pour Fat Free CRM (Nouvelle fenêtre)
-  about_ffc_version: version de Fat Free CRM
+  about_ffc: A propos de MadaCRM
+  about_ffc_resources: Ressources pour MadaCRM (Nouvelle fenêtre)
+  about_ffc_version: version de MadaCRM
   about_home_page: Page d'accueil
   about_project_page: Page du projet
-  about_thank_you: Merci d'utiliser Fat Free CRM!
+  about_thank_you: Merci d'utiliser MadaCRM!
   about_twitter: mises à jours sur Twitter
   about_user_group: Groupe de discussion pour les utilisateurs
   admin: Administration
@@ -572,8 +572,8 @@ fr:
     vous seront communiquées.
   reset_password: Ré-initialisation du mot de passe
   update_password_and_login: Modification de l'identifiant et du mot de passe
-  back_to_crm: Retour à Fat Free CRM
-  crm_admin_page: Administration de Fat Free CRM
+  back_to_crm: Retour à MadaCRM
+  crm_admin_page: Administration de MadaCRM
   approve: Approuver
   create_user: Créer un utilisateur
   last_seen: vu pour la dernière fois il y a %{value}
